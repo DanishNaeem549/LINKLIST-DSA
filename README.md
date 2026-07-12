@@ -14,7 +14,7 @@ Singly Linked List – each node points to the next node
 
 Doubly Linked List – each node points to both next and previous nodes
 
-Circular Linked List – the last node points back to the first node
+Circular Linked List – the last node points back to the first node and make circle
 
 🔹 Advantages
 
