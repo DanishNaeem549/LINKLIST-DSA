@@ -53,3 +53,4 @@ Dynamic memory allocation
 Undo/Redo functionality
 
 Graph and adjacency list representation
+BST is best algorithm for search 
